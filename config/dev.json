@@ -1,0 +1,9 @@
+{
+    "fmp-api" : "http://127.0.0.1:5000/",
+    "mongodb" : {
+        "url" : "localhost",
+        "port" : "27017",
+        "db" : "financial_statements_analyst_dev"
+    },
+    "disable_openai": true
+}

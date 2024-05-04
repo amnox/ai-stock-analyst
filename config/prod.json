@@ -1,0 +1,9 @@
+{
+    "fmp-api" : "https://financialmodelingprep.com/",
+    "mongodb" : {
+        "url" : "localhost",
+        "port" : "27017",
+        "db" : "financial_statements_analyst_prod"
+    },
+    "disable_openai": true
+}

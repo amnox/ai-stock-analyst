@@ -1,2 +1,3 @@
 openai-env/
-apikey.py
+secrets_keys.py
+.DS_Store
